@@ -1,4 +1,3 @@
-Here is the complete, combined code block. You can hit the "Copy code" button on this block and paste it directly into your `Week_1/Warmup/README.md` file on GitHub.
 
 ```markdown
 ### Beginner (The "Make It Work" Level)
