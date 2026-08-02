@@ -41,30 +41,30 @@ Control flow: loops and decisions
 
 ```markdown
 
-## Names of the conditions
+# Names of the conditions
 
-### # karel conditions
+# karel conditions
 
-* `front_is_clear()`
-* `beepers_present()`
-* `beepers_in_bag()`
-* `left_is_clear()`
-* `right_is_clear()`
-* `facing_north()`
-* `facing_south()`
-* `facing_east()`
-* `facing_west()`
+ `front_is_clear()`
+ `beepers_present()`
+ `beepers_in_bag()`
+ `left_is_clear()`
+ `right_is_clear()`
+ `facing_north()`
+ `facing_south()`
+ `facing_east()`
+ `facing_west()`
 
-### # opposites
+#opposites
 
-* `front_is_blocked()`
-* `no_beepers_present()`
-* `no_beepers_in_bag()`
-* `left_is_blocked()`
-* `right_is_blocked()`
-* `not_facing_north()`
-* `not_facing_south()`
-* `not_facing_east()`
-* `not_facing_west()`
+ `front_is_blocked()`
+ `no_beepers_present()`
+ `no_beepers_in_bag()`
+ `left_is_blocked()`
+ `right_is_blocked()`
+ `not_facing_north()`
+ `not_facing_south()`
+ `not_facing_east()`
+ `not_facing_west()`
 
 ```
