@@ -1,5 +1,4 @@
 
-```markdown
 ### Beginner (The "Make It Work" Level)
 
 *   **The Goal:** Just get to the finish line.
@@ -16,7 +15,7 @@ def main():
 
 ```
 
----
+
 
 ### Intermediate (The "Storyteller" Level)
 
@@ -58,8 +57,6 @@ def retrieve_item():
 
 ```
 
----
-
 ### Advanced (The "Defensive & Documented" Approach)
 
 This is where you deploy the master template. An advanced programmer does not just write code that works when the world is perfect; they write defensive code that prevents crashes. Here, you use conditions (`if`) to ensure Karel does not walk into a wall or try to pick up a beeper that isn't there.
@@ -97,9 +94,5 @@ def safe_pick():
     # Prevents a crash if the beeper is missing
     if beepers_present():
         pick_beeper()
-
-```
-
-```
 
 ```
