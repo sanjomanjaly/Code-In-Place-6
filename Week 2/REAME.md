@@ -1,4 +1,4 @@
-# Week 2: Stepwise Refinement
+# Week 2
 
 This folder contains the core assignments for Week 2. The focus this week is on **stepwise refinement**—breaking down complex problems into smaller, manageable functions. 
 
