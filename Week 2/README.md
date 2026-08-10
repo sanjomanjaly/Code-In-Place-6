@@ -1,6 +1,8 @@
-# Method 2: The Ping-Pong (Shrinking Boundaries)
+# Midpoint Karel
 
-## Algorithm Overview
+## Method 2: The Ping-Pong (Shrinking Boundaries)
+
+### Algorithm Overview
 
 1. **Set the Boundaries (The two bookends):** 
    Karel starts at the West wall and immediately puts down a single beeper. He then walks forward across the completely empty world until he hits the East wall, where he puts down a second beeper. These two beepers mark his outermost boundaries.
